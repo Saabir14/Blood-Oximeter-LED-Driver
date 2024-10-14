@@ -1,0 +1,29 @@
+# STM32CubeIDE specific files
+/.settings/
+/Debug/
+/Release/
+/build/
+/*.launch
+/*.jmx
+/*.log
+/*.bin
+/*.elf
+/*.map
+/*.hex
+/*.d
+/*.o
+/*.lst
+/*.srec
+/*.dep
+/*.dmp
+/*.i
+/*.su
+/*.out
+
+# Eclipse specific files
+/.project
+/.cproject
+/.csettings
+
+# MacOS specific files
+.DS_Store
